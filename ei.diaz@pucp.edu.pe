@@ -1,0 +1,60 @@
+[33mcommit f1df260ae251eb8e136d105da44aa2a743d5f55c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 54e3a87 e8872b3
+Author: Aleksei Diaz <amdiazn@indracompany.com>
+Date:   Tue May 17 15:04:32 2022 -0500
+
+    fiex
+
+[33mcommit 54e3a87d17d14216466234b60b4ad0edf903f776[m
+Author: Aleksei Diaz <amdiazn@indracompany.com>
+Date:   Tue May 17 14:40:13 2022 -0500
+
+    b=3
+
+[33mcommit e8872b3d36a97d0e177dec8e9f04300e119ed3e3[m
+Author: AlekseiDiazIndra <105733888+AlekseiDiazIndra@users.noreply.github.com>
+Date:   Tue May 17 14:39:03 2022 -0500
+
+    a =2
+
+[33mcommit 7da42e0509a01874ab30cea2fd5fafc056bd0e41[m
+Author: Aleksei Diaz <amdiazn@indracompany.com>
+Date:   Tue May 17 14:38:33 2022 -0500
+
+    6
+
+[33mcommit 51ca2b5525883db491dd8f461f55f662bbbb7e68[m
+Author: AlekseiDiazIndra <105733888+AlekseiDiazIndra@users.noreply.github.com>
+Date:   Tue May 17 14:35:30 2022 -0500
+
+    update from github
+
+[33mcommit 7b1c8e6a110ebb3e30b5641dcc2196a575c9fb9e[m
+Author: Aleksei Diaz <amdiazn@indracompany.com>
+Date:   Tue May 17 13:17:14 2022 -0500
+
+    5 commit
+
+[33mcommit 683a953062b7610102314e2cba1710c1ba9347e9[m
+Author: Aleksei Diaz <amdiazn@indracompany.com>
+Date:   Tue May 17 13:16:46 2022 -0500
+
+    4 commit
+
+[33mcommit 628ab4ab450059e822b6bf7db83b67579c4f2660[m
+Author: Aleksei Diaz <amdiazn@indracompany.com>
+Date:   Tue May 17 13:13:33 2022 -0500
+
+    third commit
+
+[33mcommit a23c64176580fe063d100f9922f6f57a5b5afdef[m
+Author: Aleksei Diaz <amdiazn@indracompany.com>
+Date:   Tue May 17 13:03:31 2022 -0500
+
+    second commit
+
+[33mcommit a5952d08e320b17d05598f454ec9c819b17347d2[m
+Author: Aleksei Diaz <amdiazn@indracompany.com>
+Date:   Tue May 17 12:47:38 2022 -0500
+
+    git commit -m "first commit"
